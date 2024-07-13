@@ -1,0 +1,19 @@
+p[draggable="false"]{
+    color: red;
+}
+
+*{
+    color: black;
+}
+
+.pink-text{
+    color: pink;
+}
+
+h1{
+    color:blue
+}
+
+#main{
+    color: yellow;
+}
